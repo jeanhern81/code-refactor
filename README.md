@@ -8,4 +8,4 @@ website: https://jeanhern81.github.io/code-refactor/
 
 A readme for the Heriseon website. 
 
-The Heriseon website needed a few adjustments. 
+The Heriseon website needed a few adjustments. I added semantic html, added alt attributes to the images to make the website accessible to the visual impared, a
