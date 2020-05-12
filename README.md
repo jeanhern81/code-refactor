@@ -12,7 +12,7 @@ website: https://jeanhern81.github.io/code-refactor/
 
 ---
 
-A README for the Heriseon website.
+README for the Heriseon website.
 
 The Heriseon website needed a few adjustments before its launch. I added/modified:
 
