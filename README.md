@@ -1,8 +1,11 @@
+==
 Code Refactor
+==
 
 website: https://jeanhern81.github.io/code-refactor/
 
-![Alt text](/relative/path/to/screenshot?raw=true "Screenshot of image")
+![Screenshot of Heriseon Website](/relative/path/to/screenshot?raw=true "Heriseon Website")
 
+A readme for the Heriseon website. 
 
-The Heriseon website needed a few adjustments. I added accessible alt attributes to the images. 
+The Heriseon website needed a few adjustments. 
