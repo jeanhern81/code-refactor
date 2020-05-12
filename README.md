@@ -10,7 +10,7 @@ website: https://jeanhern81.github.io/code-refactor/
 
 ---
 
-![Screenshot of Heriseon Website](/relative/path/to/screenshot?raw=true "Heriseon Website")
+![Screenshot of Heriseon Website](assets/images/screenshot.jpg "Heriseon Website")
 
 ---
 
